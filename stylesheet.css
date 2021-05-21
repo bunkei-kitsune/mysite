@@ -1,4 +1,8 @@
-header {
+header h1 h2{
   color:white;
   opaciy:0.8;
+}
+
+.top-img{
+  background-size:cover;
 }
