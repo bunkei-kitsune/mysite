@@ -1,8 +1,25 @@
-header h1 h2{
-  color:white;
-  opaciy:0.8;
+header {
+  background-color: #FEF1EB;
 }
 
-.top-img{
-  background-size:cover;
+.logo {
+  float: left;
+  padding: 20px;
+}
+
+li {
+  float: left;
+  padding: 30px
+}
+
+.top-img {
+  background-size: cover;
+  position: relative;
+}
+
+top-wrapper h1 h2 {
+  color: white;
+  opaciy: 0.8;
+  position: absolute;
+  textalign: center;
 }
