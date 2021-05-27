@@ -13,6 +13,8 @@ header {
 
 .header-logo {
   float: left;
+  padding: 20px; 
+  border-radius: 25px;
 }
 
 a {
@@ -21,10 +23,11 @@ a {
   display: inline-block;
   font-size: 15px;
   font-weight: bold;
+  text-align: center;
 }
 
 .top-wrapper {
-  background-image: url(top-wrapper用画像.pdf);
+  background-image: url("top-wrapper用画像.pdf");
   background-size: cover;
 }
 
@@ -49,8 +52,8 @@ a {
 }
 
 .content {
-  
-  
+  float: left;
+  width: 33%;
 }
 
 
