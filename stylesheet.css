@@ -5,8 +5,8 @@ header {
 .logo {
   float: left;
   padding: 20px;
-  height: 30px;
-  width: 30px;
+  height: 50px;
+  width: 50px;
 }
 
 li {
@@ -16,11 +16,11 @@ li {
 }
 
 .top-wrapper {
-  background-img: url(https://www.canva.com/design/DAEfFwHIJo0/view)
+  background-img: url(https://www.canva.com/design/DAEfFwHIJo0/view)；
   background-size: cover;
 }
 
-top-wrapper h1 h2 {
+.top-wrapper h1 h2 {
   color: white;
   opaciy: 0.8;
   textalign: center;
