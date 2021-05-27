@@ -1,3 +1,7 @@
+.container {
+  margin: 0 auto;
+}
+
 header {
   background-color: #FEF1EB;
   height: 100px;
@@ -5,23 +9,28 @@ header {
 
 .header-logo {
   float: left;
-  padding: 10px;
 }
 
  p {
   float: left;
-  padding: 30px;
+  padding: 20px 50px;
   display: inline-block;
-  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .top-wrapper {
-  background-img: url(https://www.canva.com/design/DAEfFwHIJo0/view)；
+  background-img: url(Green Playful Organic Freelance Graphic Designer Marketing Presentation.png)；
   background-size: cover;
 }
 
-.top-wrapper h1 h2 {
-  color: white;
-  opaciy: 0.8;
+.top-wrapper h1 {
+  color:rgba(255,255,255,0.8);
   text-align: center;
+  letter-spacing:10px;
+}
+
+.top-wrapper h2 {
+  color:rgba(255,255,255,0.8)
+  text-align:center;
 }
