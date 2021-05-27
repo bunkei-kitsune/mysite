@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .container {
   margin: 0 auto;
 }
@@ -20,17 +24,33 @@ a {
 }
 
 .top-wrapper {
-  background-image: url(top-wrapper用画像.pdf)；
+  background-image: url(top-wrapper用画像.pdf);
   background-size: cover;
 }
 
 .top-wrapper h1 {
-  color:rgba(255,255,255,0.8);
+  color: rgba(255,255,255,0.8);
   text-align: center;
-  letter-spacing:10px;
+  font-size: 50px;
+  letter-spacing:5px;
 }
 
 .top-wrapper h2 {
-  color:rgba(255,255,255,0.8)
-  text-align:center;
+  color: rgba(255,255,255,0.8)
+  text-align: center;
 }
+
+main {
+  background-color: #FEF1EB;
+}
+
+.fas {
+  color: #191F3C;
+}
+
+.content {
+  
+  
+}
+
+
