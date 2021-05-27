@@ -16,7 +16,7 @@ header {
 .header-logo {
   float: left;
   padding: 0 20px; 
-  border-radius: 25px;
+  border-radius: 50px;
 }
 
 a {
@@ -31,6 +31,7 @@ a {
 .top-wrapper {
   background-image: url(top-wrapper用画像.png);
   background-size: cover;
+  height: 800px;
 }
 
 .top-wrapper h1 {
