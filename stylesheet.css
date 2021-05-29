@@ -22,7 +22,7 @@ header {
 
 header a {
   float: left;
-  padding: 20px 50px;
+  padding: 40px 50px;
   display: inline-block;
   font-size: 15px;
   font-weight: bold;
@@ -37,7 +37,7 @@ header a {
 
 .top-wrapper h1 {
   color: rgba(255,255,255,0.8);
-  font-size: 150px;
+  font-size: 120px;
   letter-spacing:8px;
   width: 100%;
   margin: 0 auto;
