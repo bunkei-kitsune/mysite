@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: #FEF1EB;
+  background-color: #C6D3C2;
   height: 100px;
 }
 
@@ -50,7 +50,7 @@ a {
 }
 
 .main {
-  background-color: #C6D3C2;
+  background-color: #ECBA9F;
   height: 1800px;
 }
 
@@ -68,3 +68,6 @@ h3 {
   font-size: 30px;
 }
 
+footer {
+  background-color: #C6D3C2; 
+{
