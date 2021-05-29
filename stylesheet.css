@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  width: 1200px;
+  width: 80%;
   padding: 0 20px;
   margin: 0 auto;
 }
@@ -16,11 +16,11 @@ header {
 .header-logo {
   float: left;
   padding: 0 20px; 
-  border-radius: 50px;
+  border-radius: 70px;
 }
 
 a {
-  float: left;
+  float: left
   padding: 20px 50px;
   display: inline-block;
   font-size: 15px;
@@ -36,7 +36,7 @@ a {
 
 .top-wrapper h1 {
   color: rgba(255,255,255,0.8);
-  font-size: 100px;
+  font-size: 150px;
   letter-spacing:8px;
   margin: 0 auto;
   padding: 400px;
@@ -50,12 +50,14 @@ a {
 }
 
 .main {
-  background-color: #ECBA9F;
+  background-color: #FEF1EB;
   height: 1800px;
 }
 
 .fas {
   color: #191F3C;
+  text-align: center;
+  padding-top: 30px;
 }
 
 .content {
