@@ -17,9 +17,10 @@ header {
   float: left;
   padding: 0 20px; 
   border-radius: 70px;
+  height: 80%;
 }
 
-a {
+header a {
   float: left;
   padding: 20px 50px;
   display: inline-block;
@@ -40,14 +41,14 @@ a {
   letter-spacing:8px;
   width: 100%;
   margin: 0 auto;
-  padding-top: 300px;
+  padding-top: 200px;
 }
 
 .top-wrapper h2 {
   color: rgba(255,255,255,0.8);
   font-size: 50px;
   text-align: center;
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .main {
@@ -56,11 +57,14 @@ a {
   width: １００％;
 }
 
-.fas {
-  color: #191F3C;
+span {
   display: inline-block;
   text-align: center;
   padding-top: 30px;
+}
+
+.fas {
+  color: #191F3C;
 }
 
 h3 {
@@ -77,3 +81,8 @@ footer {
   background-color: #C6D3C2; 
   height: 100px;
 {
+
+footer a {
+  display: inline-block;
+  margin: 0 auto;
+}
