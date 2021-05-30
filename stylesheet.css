@@ -34,15 +34,15 @@ header {
 .top-wrapper {
   background-image: url(top-wrapper用画像.png);
   background-size: cover;
-  height: 700px;
+  height: 750px;
 }
 
 .top-wrapper h1 {
   color: rgba(255,255,255,0.8);
-  font-size: 120px;
+  font-size: 100px;
   letter-spacing:8px;
   text-align: center;
-  padding-top: 200px;
+  padding-top: 150px;
 }
 
 .top-wrapper h2 {
@@ -80,7 +80,7 @@ h3 {
 
 p {
   font-size: 15px;
-  margin: 0 auto;
+  text-align: center;
 }
 
 .content {
