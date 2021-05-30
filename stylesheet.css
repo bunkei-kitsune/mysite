@@ -74,6 +74,7 @@ h3 {
 .content {
   float: left;
   width: 33%;
+  text-align: center;
 }
 
 footer {
