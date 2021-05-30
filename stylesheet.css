@@ -20,7 +20,7 @@ header {
   height: 80%;
 }
 
-header a {
+a {
   float: left;
   padding: 40px 50px;
   display: inline-block;
