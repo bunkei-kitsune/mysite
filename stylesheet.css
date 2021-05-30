@@ -39,8 +39,7 @@ a {
   color: rgba(255,255,255,0.8);
   font-size: 120px;
   letter-spacing:8px;
-  width: 100%;
-  margin: 0 auto;
+  text-align: center;
   padding-top: 200px;
 }
 
