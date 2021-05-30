@@ -21,6 +21,10 @@ header {
   left: 20px;
 }
 
+.items {
+  margin-left: 100px;
+}
+
 .item {
   float: left;
   padding: 40px 50px;
