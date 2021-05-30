@@ -77,6 +77,11 @@ h3 {
   text-align: center;
 }
 
+.output {
+  float: left;
+  width: 50%;
+}
+  
 footer {
   background-color: #C6D3C2; 
   height: 100px;
