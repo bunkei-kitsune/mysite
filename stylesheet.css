@@ -56,6 +56,10 @@ a {
   width: １００％;
 }
 
+.heading {
+  text-align: center; 
+}
+
 span {
   display: inline-block;
   text-align: center;
