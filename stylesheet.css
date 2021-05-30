@@ -16,10 +16,7 @@ header {
   float: left;
   border-radius: 70px;
   height: 80px;
-}
-
-.logo {
-  padding: 10px 20px; 
+  margin: 10px 20px:
 }
 
 .item {
@@ -34,7 +31,7 @@ header {
 .top-wrapper {
   background-image: url(top-wrapper用画像.png);
   background-size: cover;
-  height: 750px;
+  height: 700px;
 }
 
 .top-wrapper h1 {
@@ -42,7 +39,7 @@ header {
   font-size: 100px;
   letter-spacing:8px;
   text-align: center;
-  padding-top: 150px;
+  padding-top: 200px;
 }
 
 .top-wrapper h2 {
