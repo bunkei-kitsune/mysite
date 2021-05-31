@@ -10,9 +10,10 @@ body {
 header {
   background-color: #C6D3C2;
   height: 100px;
-  position:fixed;
-  top:0;
-  z-index:10;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .header-logo {
